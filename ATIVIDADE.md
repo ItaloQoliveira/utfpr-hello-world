@@ -10,7 +10,7 @@
 2. acordar
 3. dormir novamente
 
-...
+´´´
 printf("Eu amo queijo");
-...
+´´´
 
