@@ -10,9 +10,9 @@
 2. acordar
 3. dormir novamente
 
-´´´
+```
 int main(){
 	printf("Eu amo queijo");
 }
-´´´
+```
 
