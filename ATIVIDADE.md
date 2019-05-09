@@ -11,6 +11,8 @@
 3. dormir novamente
 
 ´´´
-printf("Eu amo queijo");
+int main(){
+	printf("Eu amo queijo");
+}
 ´´´
 
